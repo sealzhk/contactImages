@@ -13,6 +13,7 @@
 		22C2DAE2256CA8CF005AAEDD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22C2DAE0256CA8CF005AAEDD /* Main.storyboard */; };
 		22C2DAE4256CA8D4005AAEDD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22C2DAE3256CA8D4005AAEDD /* Assets.xcassets */; };
 		22C2DAE7256CA8D4005AAEDD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22C2DAE5256CA8D4005AAEDD /* LaunchScreen.storyboard */; };
+		22C2DAEF256CBC3C005AAEDD /* AlertService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C2DAEE256CBC3C005AAEDD /* AlertService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		22C2DAE3256CA8D4005AAEDD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22C2DAE6256CA8D4005AAEDD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		22C2DAE8256CA8D4005AAEDD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22C2DAEE256CBC3C005AAEDD /* AlertService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				22C2DADA256CA8CF005AAEDD /* AppDelegate.swift */,
 				22C2DADC256CA8CF005AAEDD /* SceneDelegate.swift */,
 				22C2DADE256CA8CF005AAEDD /* ViewController.swift */,
+				22C2DAEE256CBC3C005AAEDD /* AlertService.swift */,
 				22C2DAE0256CA8CF005AAEDD /* Main.storyboard */,
 				22C2DAE3256CA8D4005AAEDD /* Assets.xcassets */,
 				22C2DAE5256CA8D4005AAEDD /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				22C2DADF256CA8CF005AAEDD /* ViewController.swift in Sources */,
 				22C2DADB256CA8CF005AAEDD /* AppDelegate.swift in Sources */,
+				22C2DAEF256CBC3C005AAEDD /* AlertService.swift in Sources */,
 				22C2DADD256CA8CF005AAEDD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
